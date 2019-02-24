@@ -7,6 +7,7 @@ def add_two_numbers():
 
 
 # print(methodception(add_two_numbers))
+
 print(methodception(lambda: 35 + 77))
 
 my_list = [13, 56, 77, 484]
